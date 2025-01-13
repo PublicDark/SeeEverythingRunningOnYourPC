@@ -1,18 +1,26 @@
-These programs will show you everything running on your P.C aswell as the network traffic, making it easier to spot unusual behaviour from processes yourself!
-[ A.K.A be your own anti-virus & 'possibly' pin point the problem!
+The three programs I linked below will show you EVERYTHING happening on your P.C nd act like your own antivirus!
 
-+ NOTE: If you're semi-knolegable about basics of how comuters operate I  reccomend taking a look around Microsoft's learn page!
+Its only A matter of time until you end up downloading a leaked mod from reddit thats infected with info/token stealers so  its for the best to lean how to identify malware yourself!
+
+(I reccomend watching "PC Security Channel" on youtube to get a breif example on how these can be used to find malware!)
+
+
+
+
++ NOTE: If you're semi-knolegable about basics of how comuters operate I reccomend taking a look around Microsoft's learn page!
   their could be more tools that could help more than these!  -- https://learn.microsoft.com/ --
-  
+
+
 ===================================================================================================
 
 CAUTION!:
 
-- DO NOT USE THESE IF YOU DONT KNOW UNDERSTAND WHAT YOURE DOING! LOOKUP VIDEOS TO ENSURE YOU DONT STOP A CRITICAL PROCESS FOR WINDOWS!
-- 
-- ONLY DOWNLOAD THESE FILES FROM THE OFFICIAL MICROSOFT SITE! LINKS WILL BE PROVIDED TO MAKE SURE YOU FIND THE RIGHT ONES! THEY NEED ADMIN PERMISSIONS TO OPERATE! SO BE VERY OBSERVENT WITH WHAT YOURE DOWNLOADING!
+- DO NOT USE THESE IF YOU DONT KNOW WHAT PROCESS TO  KILL OR SUSPEND! LOOKUP VIDEOS TO ENSURE YOU DONT STOP A CRITICAL PROCESS FOR WINDOWS!
+  
+- ONLY DOWNLOAD THESE FILES FROM THE OFFICIAL LEARN.MICROSOFT SITE! LINKS WILL BE PROVIDED!
+  
 
-REMINDER!: These (3) are free, links posted will bring you to the proper download site;
+REMEMBER! !: These (3) are free, links posted will bring you to the proper download site, READ T
 
 
 **AUTO RUNS === [ A simple U.I but extremely useful Process tree viewer, ]
@@ -30,15 +38,4 @@ REMINDER!: These (3) are free, links posted will bring you to the proper downloa
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""'"""
 
-============== USEFUL THIRD PARTY PROGRAMS ==============
 
-Hitman pro === [ Great detection tool, have to buy the ablility to remove said detections. ]
--- LINK: https://www.hitmanpro.com/en-us -- 
-
-
-
-
-
- ***** BE SAFE & I HOPE THIS HELPS SOLVE ANY ISSUES! D.M ME ( PublicDark ) ON THE REDDIT LEAK COMMUNITY IF ANYONE NEEDS HELP FINDING ISSUES *****
-  === im probably gonna remove this cause tommorow, ive drank a lil too much lmao and  ig found this info relevent to share  ===
-                        
