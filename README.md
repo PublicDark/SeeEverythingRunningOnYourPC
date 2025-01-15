@@ -6,7 +6,7 @@ The three programs linked below will show you EVERYTHING happening on your P.C
 
 (I reccomend watching "PC Security Channel" or other tutorials online to get a breif example on how to use these.)
 
- ===================================================================================================
+ ============================================================================================
 
 - DO NOT USE IF YOU DONT KNOW WHAT YOU'RE DOING! TO ENSURE YOU DONT STOP A CRITICAL PROCESS FOR WINDOWS DO SOME RE-SEARCH!
   ENDING CRITICAL PROCESSES COULD SERIOUSLY DAMAGE OR CORRUPT SYSTEM FILES/OPERATIONS LEAVING YOUR P.C UN-USABLE! 
